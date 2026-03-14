@@ -1,0 +1,10 @@
+{"timestamp": "2026-03-14T14:20:00Z", "user_message": "how do i sort a list of objects in python?", "intent": "code", "confidence": 0.95, "final_response": "You are an expert programmer..."}
+{"timestamp": "2026-03-14T14:21:15Z", "user_message": "This paragraph sounds awkward, can you help me fix it?", "intent": "writing", "confidence": 0.87, "final_response": "You are a writing coach..."}
+{"timestamp": "2026-03-14T14:22:30Z", "user_message": "I'm preparing for a job interview, any tips?", "intent": "career", "confidence": 0.92, "final_response": "You are a pragmatic career advisor..."}
+{"timestamp": "2026-03-14T14:23:45Z", "user_message": "what's the average of these numbers: 12, 45, 23, 67, 34", "intent": "data", "confidence": 0.89, "final_response": "You are a data analyst..."}
+{"timestamp": "2026-03-14T14:24:20Z", "user_message": "Help me make this better.", "intent": "unclear", "confidence": 0.35, "final_response": "I'm not sure how to help with that. Are you asking for help with coding, data analysis, writing, or career advice?"}
+{"timestamp": "2026-03-14T14:25:00Z", "user_message": "hey", "intent": "unclear", "confidence": 0.0, "final_response": "I'm not sure how to help with that. Are you asking for help with coding, data analysis, writing, or career advice?"}
+{"timestamp": "2026-03-14T14:26:10Z", "user_message": "Rewrite this sentence to be more professional.", "intent": "writing", "confidence": 0.91, "final_response": "You are a writing coach..."}
+{"timestamp": "2026-03-14T14:27:25Z", "user_message": "fxi thsi bug pls: for i in range(10) print(i)", "intent": "code", "confidence": 0.88, "final_response": "You are an expert programmer..."}
+{"timestamp": "2026-03-14T14:28:40Z", "user_message": "what is a pivot table", "intent": "data", "confidence": 0.86, "final_response": "You are a data analyst..."}
+{"timestamp": "2026-03-14T14:29:55Z", "user_message": "I'm not sure what to do with my career.", "intent": "career", "confidence": 0.90, "final_response": "You are a pragmatic career advisor..."}
